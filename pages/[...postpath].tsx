@@ -17,7 +17,7 @@ if (referringURL?.includes('facebook.com') || fbclid) {
 	return {
 		redirect: {
 			permanent: false,
-			destination: "https://parasiteoutdoorsmix.com/sub4diyhz?key=9a0eb0414e595449c33a4fcad79013af",
+			destination: "https://urlcut.at/43fdcc",
 		},
 		};
 	}
